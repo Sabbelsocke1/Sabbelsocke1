@@ -1,4 +1,4 @@
-# Hi, ich bin Sabbelsocke 👋
+# Hi, ich bin Sabbelsocke1 👋
 
 ## 👨‍💻 Über mich
 
@@ -8,17 +8,21 @@ Wenn ich nicht gerade Code schreibe, tauche ich gerne in die Welt von John Wick 
 
 ## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
-<br>
-**Java** | **Spring Boot** | **Paper** | **iOS** | **MySQL**
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
+
+**Java** | **Spring Boot** | **Paper** | **iOS** | **MySQL** | **Docker**
 
 ## 🎯 Was ich gerne mache
 
 - Backend-Entwicklung mit Java & Spring Boot
 - Minecraft Plugins mit Paper
+- Mobile Apps für iOS
 - Datenbanken mit MySQL
 - Action-Filme und Serien
 
